@@ -28,16 +28,16 @@ div {
 }
 
 h1 {
-    color: red;
+    color: #157b7e;
 }
 h2 {
-    color: rgb(230, 122, 162);
+    color: #00bcc1;
 }
 
 .header-bg {
-    background-color: rgb(249, 218, 223);
+    background-color: #bcfdff;
 }
 
 .body-bg {
-    background-color: rgb(252, 234, 224);
+    background-color: #dcfeff;
 }
