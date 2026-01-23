@@ -67,3 +67,36 @@ h2 {
 .body-bg {
     background-color: #dcfeff;
 }
+
+.div-btn {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.link-btn-tall {
+    padding: 0.25em 1em;
+}
+
+.link-btn-short {
+    padding: 0.001em 1em;
+}
+
+.link-btn {
+    background-color: blue;
+    display: block;
+    width: fit-content;
+    border-radius: 5px;
+}
+
+.link-btn:hover {
+    background-color: rgb(202, 202, 255);
+}
+
+.link-text {
+    color: white;
+    text-decoration: none;
+}
+
+.link-text:hover {
+    color: blue;
+}
